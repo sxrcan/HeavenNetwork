@@ -4,6 +4,6 @@ Buraya geldiyseniz muhtemelen Launcher'e güncelleme gelmiştir ve güncelleme y
 <br>
 **Adım 2:** Bilgisayarınızı yeniden başlatınız.
 <br>
-**Adım 3:** windows + r tuşlarına aynanda basın, sonrasında oraya %appdata%/heavenlauncher yazınız<
+**Adım 3:** windows + r tuşlarına aynanda basın, sonrasında oraya %appdata%/heavenlauncher yazınız.
 <br>
 **Adım 4:** Daha sonrasında heavenlauncher klasörünün içindeki her şeyi silip, launcher.zip arşivinin içindekilerini oraya atın ve hepsi bu kadar.
